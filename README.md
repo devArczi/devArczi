@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artur Przyborski</h1>
+<h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" alt="react.gif" width="400" src="https://uploads.toptal.io/blog/image/92137/toptal-blog-image-1455717817638-f1c9424752a145ebf97219ec7a2d6cca.gif">
 
